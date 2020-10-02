@@ -10,5 +10,12 @@ I expected the challenge to be tough as I did not know how to test the app. But 
 
 <h2>  What went well? </h2>
 
-I managed to complete the challenge successfully but I did come acroos sonme issues with pushing the files to Github. Also, I developed my programming skills as I now i'm able to confidently use Bash comamands and work with scripts.
+I managed to complete the challenge successfully but I did come acroos some issues with pushing the files to Github. Also, i've developed my programming skills as I now able to confidently use Bash comamands and work with scripts.
 
+<h2> Whatd didn't go as planned? </h2>
+
+I was having issues with Github as I was trying to upload the files into my repository, but in the end I managed to fix the problem. 
+
+<h2> Improvements for future challenges </h2>
+
+I feelk like I need to practice more with working with virtual environments on bash. 
