@@ -12,7 +12,7 @@ I expected the challenge to be tough as I did not know how to test the app. But 
 
 I managed to complete the challenge successfully but I did come acroos some issues with pushing the files to Github. Also, i've developed my programming skills as I now able to confidently use Bash comamands and work with scripts.
 
-<h2> Whatd didn't go as planned? </h2>
+<h2> What didn't go as planned? </h2>
 
 I was having issues with Github as I was trying to upload the files into my repository, but in the end I managed to fix the problem. 
 
